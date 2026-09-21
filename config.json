@@ -65,6 +65,13 @@
       "description": "Build REST APIs with FastAPI, including routes, JSON data, validation, and HTTP error responses.",
       "path": "assignments/building-rest-apis-fastapi",
       "dueDate": "2026-09-28"
+    },
+    {
+      "id": "python-file-io-json",
+      "title": "Python File I/O and JSON",
+      "description": "Read and write files in Python and store structured data using JSON.",
+      "path": "assignments/python-file-io-json",
+      "dueDate": "2026-09-28"
     }
   ]
 }
